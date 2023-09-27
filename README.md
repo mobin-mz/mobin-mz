@@ -2,22 +2,26 @@
 - I am a programmer
 - I do web design **front end**
 ### Languages and tools :
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/?size=48&id=20909&format=png" />
+<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" />
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/?size=48&id=108784&format=png" />
+
 <br>
 <br/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="29px" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" />
+
+<img align="left" alt="GitHub" width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" />
+<img align="left" alt="Trello" width="30px" src="https://img.icons8.com/?size=48&id=21049&format=png" />
 
 <br>
 <br/>
 
 ### contact with me:
-<a>
 <img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png" alt="instagram"/>
-<a href="https://www.instagram.com/">
+<img align="left" alt="Discord" width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/discord.png" />
+
+
 <br>
 <br/>
 
