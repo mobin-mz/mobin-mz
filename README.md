@@ -25,7 +25,7 @@
 <br>
 <br/>
 
-#### And I hope you will always be successful and rich </> 
+#### And always be successful and rich </> 
 <!---
 mobiiiin/mobiiiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
