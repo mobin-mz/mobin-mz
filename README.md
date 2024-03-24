@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @mobin mahzoon
-- I am a programmer
-- I do web design **front end**
+## Hi, I’m a front end developer
+##### Hello, I am Mobin-mz (Mobin Mahzoon Zadeh)
+##### I am 18 years old and I have finished school and I am going to university, my major is network and software
+##### I have started web design for 5 months and I only work in the front-end field
 ### Languages and tools :
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/?size=48&id=20909&format=png" />
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" />
