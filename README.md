@@ -1,6 +1,6 @@
 ## Hi, I’m a front end developer
 ##### Hello, I am Mobin-mz (Mobin Mahzoon Zadeh)
-##### I am 18 years old and I have finished school and I am going to university, my major is network and software
+##### I have finished school and I am going to university, my major is network and software
 ##### I have started web design for 5 months and I only work in the front-end field
 
 
